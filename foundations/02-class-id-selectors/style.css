@@ -1,0 +1,19 @@
+.number_1 {
+    font-family: Verdana,"DejaVu Sans",sans-serif;
+    background-color: darksalmon;
+}
+
+#number_2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.number_1.number_3 {
+    font-size: 24px;
+}
+
+#number_4 {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: lightgreen;
+}
