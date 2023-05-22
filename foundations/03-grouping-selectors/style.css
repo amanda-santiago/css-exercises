@@ -1,0 +1,14 @@
+.button{
+    font-family: Helvetica,"Times New Roman",sans-serif;
+    font-size: 28px;
+}
+
+.button.click-me-first {
+    color: white;
+    background-color: black;
+}
+
+.button.click-me-second {
+    color: black;
+    background-color: yellow;
+}
